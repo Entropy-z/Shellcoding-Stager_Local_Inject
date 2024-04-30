@@ -1,6 +1,5 @@
 #include <windows.h>
 #include <winhttp.h>
-#include <stdio.h>
 #include <core/transport.h>
 #include <core/win32.h>
 
