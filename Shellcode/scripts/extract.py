@@ -4,6 +4,7 @@
 import pefile
 import argparse
 
+# Credits: https://github.com/Cracked5pider
 
 def main():
     try:
